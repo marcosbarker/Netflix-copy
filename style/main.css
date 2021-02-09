@@ -54,7 +54,7 @@ header nav a:hover{
     align-items: flex-start;
 }
 
-.filme.principal{
+.filme-principal .descricao{
     margin-bottom: 40px;
     margin-top: 10px;
 }
@@ -85,3 +85,16 @@ header nav a:hover{
     margin-right: 8px;
 }
 
+.container{
+    margin-left: 20px;
+}
+
+.filme-principal .container{
+    width: 35%;
+}
+
+.box-filme{
+    height: 100%;
+    width: 100%;
+    display: block;
+}
