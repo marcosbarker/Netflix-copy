@@ -1,4 +1,4 @@
-<h2 align="center">:movie_camera:​Recriando a página inicial do Instagram:tv<a name="back-to-top"></a></h2>
+<h2 align="center">:movie_camera:​Recriando a página inicial da Netflix:tv:<a name="back-to-top"></a></h2>
 
 <h3 align="center">Exercício proposto no curso HTML Web Developer da Digital Innovation One.</h3>
 
