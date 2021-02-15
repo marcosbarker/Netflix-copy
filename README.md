@@ -16,12 +16,13 @@
    
 :e-mail:[Email](mailto:pgomes@faeterj-petropolis.edu.br)
 
-:link:[Linkedin](http://lattes.cnpq.br/9921689263681163)
+:link:[Linkedin](https://www.linkedin.com/in/marcos-paulo-marques-corrêa-gomes-2794271b0)
 
-:link:[Lattes](https://wwws.cnpq.br/cvlattesweb/PKG_MENU.menu?f_cod=A4769AB5DE3FCB49D83423E88118FAB5#)
+:link:[Lattes](http://lattes.cnpq.br/9921689263681163)
 
 
 
 ⬆️ [Back to top](#back-to-top)⬆️ 
 
  
+https://www.linkedin.com/in/marcos-paulo-marques-corrêa-gomes-2794271b0
