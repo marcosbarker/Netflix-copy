@@ -12,17 +12,5 @@
 
    <br/>
 
-## Contato  
-   
-:e-mail:[Email](mailto:pgomes@faeterj-petropolis.edu.br)
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;⬆️[Back to top](#back-to-top)⬆️ 
 
-:link:[Linkedin](https://www.linkedin.com/in/marcos-paulo-marques-corrêa-gomes-2794271b0)
-
-:link:[Lattes](http://lattes.cnpq.br/9921689263681163)
-
-
-
-⬆️ [Back to top](#back-to-top)⬆️ 
-
- 
-https://www.linkedin.com/in/marcos-paulo-marques-corrêa-gomes-2794271b0
