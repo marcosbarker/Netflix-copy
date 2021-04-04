@@ -49,7 +49,7 @@ header nav a:hover{
 
 .filme-principal{
     font-size: 16px;
-    background: linear-gradient(rgba(0,0,0,.30), rgba(0,0,0,.30)100%), url('/img//capa/capa-dirilis.ertug.jpg');
+    background: linear-gradient(rgba(0,0,0,.30), rgba(0,0,0,.30)100%), url('/img/capa/capa-dirilis.ertug.jpg');
     height: 750px;
     background-size: cover;   
     display: flex;
